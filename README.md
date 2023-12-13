@@ -2,7 +2,8 @@
 
 Tratamento dos dados utilizando `pandas` e visualização dos dados usando `matplotlib`.
 
-![Gráfico de saída](https://raw.githubusercontent.com/thiagonarcizo/PBF-PIB-analise/main/grafico.png)
+![Gráfico 1 de saída](https://raw.githubusercontent.com/thiagonarcizo/PBF-PIB-analise/main/grafico.png)
+![Gráfico 2 de saída](https://raw.githubusercontent.com/thiagonarcizo/PBF-PIB-analise/main/grafico2.png)
 
 # Fontes
 
