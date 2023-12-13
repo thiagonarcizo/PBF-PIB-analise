@@ -4,6 +4,8 @@ Tratamento dos dados utilizando `pandas` e visualização dos dados usando `matp
 
 ![Gráfico 1 de saída](https://raw.githubusercontent.com/thiagonarcizo/PBF-PIB-analise/main/grafico.png)
 ![Gráfico 2 de saída](https://raw.githubusercontent.com/thiagonarcizo/PBF-PIB-analise/main/grafico2.png)
+![Gráfico 3 de saída](https://raw.githubusercontent.com/thiagonarcizo/PBF-PIB-analise/main/grafico3.png)
+![Gráfico 4 de saída](https://raw.githubusercontent.com/thiagonarcizo/PBF-PIB-analise/main/grafico4.png)
 
 # Fontes
 
